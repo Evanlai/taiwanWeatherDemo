@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SplitViewTest.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:SplitViewTest"
+      name = "SplitViewTest">
+      <FileRef
+         location = "group:SplitViewTest/AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/LeftMenuViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/SplitViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/ContentViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/ContentViewBController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/CityWeatherDetailViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:SplitViewTest"
+         name = "Main.storyboard">
+         <FileRef
+            location = "group:SplitViewTest/Base.lproj/Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SplitViewTest/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:SplitViewTest"
+         name = "LaunchScreen.storyboard">
+         <FileRef
+            location = "group:SplitViewTest/Base.lproj/LaunchScreen.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SplitViewTest/Info.plist">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/MyBCollectionViewCell.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SplitViewTest/LocationInfo.swift">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
